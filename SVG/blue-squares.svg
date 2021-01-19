@@ -1,0 +1,8 @@
+<svg data-slug-id="blue-squares" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+    <rect x="34" y="17" width="14" height="14" fill="#0078D4"/>
+    <rect y="34" width="14" height="14" fill="#50E6FF"/>
+    <rect x="17" y="34" width="14" height="14" fill="#50E6FF"/>
+    <rect x="34" y="34" width="14" height="14" fill="#50E6FF"/>
+    <rect x="17" y="17" width="14" height="14" fill="#0078D4"/>
+    <rect x="34" width="14" height="14" fill="#0078D4"/>
+</svg>

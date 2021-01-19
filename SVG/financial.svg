@@ -1,0 +1,10 @@
+<svg data-slug-id="financial" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M6 95.9998H90V20.9998H6V95.9998Z" fill="#0078D4"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 95.9998H96V86.9998H0V95.9998Z" fill="#0078D4"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M43.5 80.9998H52.5V35.9998H43.5V80.9998Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M29.25 80.9998H38.25V35.9998H29.25V80.9998Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M15 80.9998H24V35.9998H15V80.9998Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M57.75 80.9998H66.75V35.9998H57.75V80.9998Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M72 80.9998H81V35.9998H72V80.9998Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 30H96V21L46.5 0L0 21V30Z" fill="#0078D4"/>
+</svg>

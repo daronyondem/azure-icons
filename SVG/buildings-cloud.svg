@@ -1,0 +1,19 @@
+<svg data-slug-id="buildings-cloud" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 96H48V0H0V96Z" fill="#0078D4"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M48 96H96V48H48V96Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 24H21V15H12V24Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M27 24H36V15H27V24Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 39H21V30H12V39Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M27 39H36V30H27V39Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 54H21V45H12V54Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M27 54H36V45H27V54Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 69H21V60H12V69Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M27 69H36V60H27V69Z" fill="#50E6FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 96H30V84H18V96Z" fill="white"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M60 69H69V60H60V69Z" fill="#0078D4"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M75 69H84V60H75V69Z" fill="#0078D4"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M66 96H78V84H66V96Z" fill="white"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M78 24.0002C78 28.9705 73.9703 33.0002 69 33.0002C64.0297 33.0002 60 28.9705 60 24.0002C60 19.03 64.0297 15.0002 69 15.0002C73.9703 15.0002 78 19.03 78 24.0002Z" fill="#0078D4"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M83.625 33.0002H60.375C58.5113 33.0002 57 31.489 57 29.6252C57 27.7615 58.5113 26.2502 60.375 26.2502H83.625C85.4888 26.2502 87 27.7615 87 29.6252C87 31.489 85.4888 33.0002 83.625 33.0002Z" fill="#0078D4"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M84 24.0002C84 27.3137 81.3135 30.0002 78 30.0002C74.6865 30.0002 72 27.3137 72 24.0002C72 20.6867 74.6865 18.0002 78 18.0002C81.3135 18.0002 84 20.6867 84 24.0002Z" fill="#0078D4"/>
+</svg>
